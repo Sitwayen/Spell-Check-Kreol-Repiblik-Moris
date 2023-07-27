@@ -1,0 +1,87 @@
+# Hunspell affix file for Mauritian Creole (Morisien)
+# Copyright 2023 Ledikasyon Pu Travayer
+# This file is distributed under the same license as hunspell-mfe
+
+SET UTF-8
+
+KEY qwertzuop|yxcvbnm|qaw|say|wse|dsx|sy|edr|fdc|dx|rft|gfv|fc|tgz|hgb|gv|zhu|jhn|hb|uji|kjm|jn|iko|lkm
+
+WORDCHARS 1234567890'‘’- 
+
+MAP 7
+MAP eéèê
+MAP kcq(qu)
+MAP aà
+MAP zj(ge)
+MAP uy(ou)
+MAP iy
+MAP t(tt)
+
+REP 66
+REP ction ksion
+REP tion sion
+REP sion sion
+REP aire er
+REP ai e
+REP em an
+REP en an
+REP an en
+REP cc k
+REP ce s
+REP ille y
+REP oi wa
+REP que k
+REP gayn gagn
+REP gengn gagn
+Rep syon sion
+Rep zyon zion
+REP ^mone$ mo'nn
+REP ^mone$ mo_finn
+REP ^tone$ to'nn
+REP ^tone$ to_finn
+REP ^zonn$ zot_finn
+REP ^zone$ zot_finn
+REP ^line$ li'nn
+REP ^line$ li_finn
+REP ^noune$ nou'nn
+REP ^noune$ nou'nn
+REP ^nounn$ nou'nn
+REP ^nounn$ nou'nn
+REP ^noune$ nu_finn
+REP ^noune$ nou_finn
+REP ^nune$ nou'nn
+REP ^nune$ nou_finn
+REP ^nunn$ nou'nn
+REP ^oune$ ou'nn
+REP ^oune$ ou_finn
+REP ^unn$ ou'nn
+REP ^unn$ ou_finn
+REP pane pa'nn
+REP pane pa_finn
+REP ca ka
+REP oi wa
+REP ence ans
+REP ne nn
+REP io yo
+REP ie ye
+REP ène enn
+REP er e
+REP ouette wet
+REP ompt ont
+REP mp np
+REP com kon
+REP au o
+REP eau o
+REP age az
+REP ère er
+REP ème em
+REP mme m
+REP ay ey
+REP ey ay
+REP femme fam
+REP se$ s
+REP pe$ p
+REP te$ t
+REP me$ m
+REP de$ d
+
